@@ -19,3 +19,5 @@ ng update @angular/core @angular/cli --force
 Les nouvelles d'Angular apportent des corrections des dépendances obsolètes et corrigent les vulnérabilités des versions précédentes.
 Egalement, des corrections et ajouts sont apportés au tslint afin d'ajuster certaines règles.
 
+# Astuces
+Utiliser ce site : https://update.angular.io/
